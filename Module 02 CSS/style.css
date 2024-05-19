@@ -1,0 +1,21 @@
+body{
+    background-color: blueviolet;
+}
+
+/* html er style class html er head theke design na kore ei css file ei direct korlam */
+
+.title {
+    color: rgb(110, 202, 233);
+    font-size: 60px;
+    /* .+class name diye amra j tag er vitorer jinish disign korbo oita likhbo */
+}
+
+.description {
+    color: chocolate;
+    font-size: 16px;
+    line-height: 1.5em;
+}
+
+#test {
+    color: rgb(233, 110, 135);
+}

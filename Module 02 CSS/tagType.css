@@ -1,0 +1,29 @@
+.first{
+    
+    width: 200px;
+    height: 100px;
+    display: inline;
+    background-color: aqua;
+}
+.second{
+    
+    width: 200px;
+    height: 100px;
+    background-color: chocolate;
+    display: inline;
+}
+
+/* chaile eivabeo kora jay but eita react a jaya vejal korbe
+
+.first{
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    float: left;
+}
+.second{
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    float: left;
+} */

@@ -1,0 +1,45 @@
+.navbar{
+    background-color: blue;
+}
+
+.shop_now{
+    background-color: rgb(255, 0, 179);
+    font-weight: 400;
+    border-radius: 6px;
+    cursor: pointer;
+    position: absolute;
+}
+
+.customize{
+    background-color: rgb(234, 127, 255);
+}
+
+.catagories{
+    display: flex;
+    gap: 3px;
+    justify-content: space-between;
+}
+
+.left-half{
+    margin: 5px;
+}
+
+.last-end p{
+    color: white;
+}
+
+.third-page h3{
+    color: purple;
+}
+
+.last-page h1{
+    color: orangered;
+}
+.last-page h2{
+    color: blueviolet;
+}
+
+.last-page-custom{
+    display: flex;
+    background-color: aquamarine;
+}

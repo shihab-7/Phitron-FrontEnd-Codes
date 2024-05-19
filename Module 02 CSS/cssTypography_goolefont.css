@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;1,100;1,700&family=Roboto:ital@1&display=swap');
+
+body{
+    background-color: rgb(205, 163, 247);
+}
+
+.title {
+    color: rgb(129, 204, 225);
+    font-size: 60px;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+    background: linear-gradient(to bottom,rgb(255, 0, 238),rgb(45, 0, 128));
+    /* text er background color jodi linear gradient style a change korte chai tahoile
+    linear gradient function use kora jay upor theke niche shead dekhte chaile to bottom use kora sarao to top othoba koto degree te 
+    dekhte chai jemon 45 a dekhte 45deg like ki ki color chai seta dite pari */
+
+    /* html a font type er html tag link add korar por css a eshe
+    j section er font type change korbo oi section er class er vitor 
+    oi font type tar css code tao paste kore dite hobe*/
+
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+.description {
+    color: #01F468;
+    font-size: 16px;
+    line-height: 1.5em;
+}
+
+#test {
+    color: rgb(233, 110, 135);
+}
+
+/* color gradient use korte parbo ei jonno google search kore neowa jay */
+/* color er opacity change korte chaile rgba format a color code use korle shubidha onujai pore
+change kora jat */

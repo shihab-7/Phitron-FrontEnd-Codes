@@ -1,0 +1,48 @@
+.box{
+    width:100px;
+    height:100px;
+    border: 1px solid black;
+    margin:5px;
+    text-align: center;
+    font-size: 25px;
+
+}
+.box1{
+    background-color: red;
+    position: fixed;
+    /* z-index: -1; */
+
+    /* z-index diye 2 ta element overlap korse kina oita dekha jay */
+}
+.box2{
+    background-color: cadetblue;
+    position: relative;
+}
+
+.box3{
+    background-color: green;
+    margin-top: 20px;
+}
+
+/* to color the bd flag */
+
+.green {
+    width: 450px;
+    background-color: green;
+    height:250px;
+    margin: 50px;
+    position: relative;
+}
+.red {
+    width: 120px;
+    height: 120px;
+    background-color: red;
+    border-radius: 60px;
+    right: 35%;
+    position: absolute;
+    top: 25%;
+}
+/* border radius diye gol shape deowa jay but height r witdh same r radius value tader half hoite hobe */
+/* top,down,lft,right diye block gula move kora jay */
+/* position absolute kore dile sob kisu edit kora jay fixed kore dile 
+web page scroll korleo oi block ta same position a thake */

@@ -1,0 +1,8 @@
+CSS er akta framework holo bootstrap
+bootstrap a onek kisui banai asa just code copy kore ene paste korlei hobe
+tarpor subidha moto pore edit kore nilei hoy 
+
+
+kono website a kothao click korle j pop up ashe oitai modal r
+kono akta sobi te slide kore kore j next next hoy oita carousel
+

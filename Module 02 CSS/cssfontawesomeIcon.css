@@ -1,0 +1,48 @@
+.box{
+    width : 300px;
+    height: 300px;
+    padding-left: 30px;
+    padding-top: 60px;
+    padding-right: 30px;
+
+    margin: 100px;
+    margin-top: 50px;
+    margin-right: 50px;
+    background : linear-gradient(90deg,rgb(126, 38, 209),white);
+
+    box-shadow: 4px 40px 80px rgb(81, 59, 59);
+    
+}
+.test{
+    background-color: aquamarine;
+}
+.inside{
+    background-color: rgb(255, 255, 255);
+    font-weight: 700;
+    font-size: large;
+    text-align: center;
+}
+
+.tst{
+    width:300px;
+    margin: auto;
+    padding :50;
+    background-color: red;
+    border: 1px solid black;
+    text-align: center;
+}
+/* pura box ta center korte chaile akta width diye margin auto dile automatic middle a chole jabr
+r text ta k middle a nite text-align use kora jay */
+
+.child{
+    padding:20px;
+    background-color: rgb(218, 208, 218);
+    width: 50%;
+    height: 100px;
+}
+/* height er value amra 100vh dite partam vh te vertical height bujhay */
+
+.fa-car{
+    font-size: 10px;
+    color: rgb(44, 39, 48);
+}
